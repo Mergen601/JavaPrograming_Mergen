@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/day16_ForLoopStringPractice/DigitSpecialCharacters.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28pjH7aux7pOWcgL9vDvfKtNgvy" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ihsan/OneDrive/Masaüstü/Cydeo/Java Programing-B25/JavaProjects/JavaPractice&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.WarmupTask">
+    <configuration name="CarObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_CustomClass.CarObject" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_CustomClass.DogObject" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_CustomClass.EmployeeObject" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_CustomClass.StudentObjects" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarmupTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_CustomClass.WarmupTask" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WarmupTask" />
+        <item itemvalue="Application.EmployeeObject" />
+        <item itemvalue="Application.StudentObjects" />
+        <item itemvalue="Application.DogObject" />
+        <item itemvalue="Application.CarObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="" />
+      <created>1651920335254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651920335254</updated>
+      <workItem from="1658579545209" duration="2262000" />
+      <workItem from="1658589204683" duration="3869000" />
+      <workItem from="1658655845004" duration="6894000" />
+      <workItem from="1658677087150" duration="2551000" />
+      <workItem from="1658739091368" duration="2422000" />
+      <workItem from="1658817289131" duration="8309000" />
+      <workItem from="1658830385590" duration="5008000" />
+      <workItem from="1658852049665" duration="71000" />
+      <workItem from="1658852185239" duration="269000" />
+      <workItem from="1658852487285" duration="93000" />
+      <workItem from="1658853084565" duration="843000" />
+      <workItem from="1658854294811" duration="146000" />
+      <workItem from="1658919541168" duration="971000" />
+      <workItem from="1658940895963" duration="93000" />
+      <workItem from="1658942097395" duration="1643000" />
+      <workItem from="1658945352674" duration="6511000" />
+      <workItem from="1659084726399" duration="8972000" />
+      <workItem from="1659175515044" duration="9536000" />
+      <workItem from="1659263898364" duration="9959000" />
+      <workItem from="1659337097248" duration="2123000" />
+      <workItem from="1659521673627" duration="4978000" />
+      <workItem from="1659603025978" duration="7464000" />
+      <workItem from="1659682143307" duration="5657000" />
+      <workItem from="1659775051661" duration="12000" />
+      <workItem from="1659783190773" duration="3593000" />
+      <workItem from="1659788030715" duration="3895000" />
+      <workItem from="1659811143555" duration="7212000" />
+      <workItem from="1659870574323" duration="8411000" />
+      <workItem from="1659955600726" duration="9534000" />
+      <workItem from="1660040204122" duration="11489000" />
+      <workItem from="1660122217476" duration="5349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day25_MethodOverloading/SumOfNumbers.java</url>
+          <line>33</line>
+          <properties class="day25_MethodOverloading.SumOfNumbers">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day30_CustomClass/Dog.java</url>
+          <line>36</line>
+          <properties class="day30_CustomClass.Dog" method="toString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day25_MethodOverloading/AddELementsToArray.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaPrograming$LogIn.ic" NAME="LogIn Coverage Results" MODIFIED="1656765608193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day17_While_DoWhile.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaPrograming$MarriageProposal.ic" NAME="MarriageProposal Coverage Results" MODIFIED="1656767675244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day17_While_DoWhile.*</FILTER>
+    </SUITE>
+  </component>
+</project>
