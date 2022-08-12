@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="NEW">
-      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/ScrumTask/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/ScrumTask/MyScrumTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/ScrumTask/ScrumTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/ScrumTask/Tester.java" afterDir="false" />
+    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="JAva SDET">
+      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/RectAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/ScrumTask/MyRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +64,26 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MyScrumTeam">
+  <component name="RunManager" selected="Application.MyRectangle">
     <configuration name="MyOffers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day31_Constructors.MyOffers" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day31_Constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Constructors.ScrumTask.MyRectangle" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day31_Constructors.ScrumTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,26 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WarmupTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_CustomClass.WarmupTask" />
-      <module name="JavaPrograming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day30_CustomClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyRectangle" />
         <item itemvalue="Application.MyScrumTeam" />
         <item itemvalue="Application.PizzaOrdering" />
         <item itemvalue="Application.PersonObjects" />
         <item itemvalue="Application.MyOffers" />
-        <item itemvalue="Application.WarmupTask" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +180,7 @@
       <workItem from="1660040204122" duration="11489000" />
       <workItem from="1660122217476" duration="6288000" />
       <workItem from="1660243972704" duration="312000" />
-      <workItem from="1660287798658" duration="11445000" />
+      <workItem from="1660287798658" duration="12117000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -226,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660307842566</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JAva SDET">
+      <created>1660316846636</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660316846636</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +251,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
     <MESSAGE value="NEW" />
-    <option name="LAST_COMMIT_MESSAGE" value="NEW" />
+    <MESSAGE value="JAva SDET" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAva SDET" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
