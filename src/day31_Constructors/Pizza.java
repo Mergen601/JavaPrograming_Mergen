@@ -14,11 +14,18 @@ public class Pizza {
 
     public double calCost() {
         double startingPrice = (size == 'S') ? 10 : (size == 'M') ? 12 : 14;
-        double totalPrice = startingPrice  + (numberOfCheeseTopping+numberOfPepperoniTopping);
+        double totalPrice = startingPrice  + (numberOfCheeseTopping+numberOfPepperoniTopping)*2;
         return  totalPrice;
     }
 
 
- }
+    public String toString() {
+        return "Pizza{" +
+                "size=" + size +
+                ", numberOfCheeseTopping=" + numberOfCheeseTopping +
+                ", numberOfPepperoniTopping=" + numberOfPepperoniTopping +
+                '}';
+    }
+}
 
 
