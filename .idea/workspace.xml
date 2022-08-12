@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="SAD">
-      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/CapitalOne.java" afterDir="false" />
+    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="new">
+      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/PersonObjects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_CustomClass/EmployeeObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_CustomClass/EmployeeObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,45 +57,46 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/ihsan/OneDrive/Masaüstü/Cydeo/Java Programing-B25/JavaProjects/JavaPrograming",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WarmupTask">
-    <configuration name="CarObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_CustomClass.CarObject" />
-      <module name="JavaPrograming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day30_CustomClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DogObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_CustomClass.DogObject" />
-      <module name="JavaPrograming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day30_CustomClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PersonObjects">
     <configuration name="EmployeeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day30_CustomClass.EmployeeObject" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day30_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyOffers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Constructors.MyOffers" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day31_Constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Constructors.PersonObjects" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day31_Constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonObjects" />
+        <item itemvalue="Application.MyOffers" />
         <item itemvalue="Application.WarmupTask" />
         <item itemvalue="Application.StudentObjects" />
         <item itemvalue="Application.EmployeeObject" />
-        <item itemvalue="Application.DogObject" />
-        <item itemvalue="Application.CarObject" />
       </list>
     </recent_temporary>
   </component>
@@ -180,8 +180,16 @@
       <workItem from="1660040204122" duration="11489000" />
       <workItem from="1660122217476" duration="6288000" />
       <workItem from="1660243972704" duration="312000" />
-      <workItem from="1660287798658" duration="297000" />
+      <workItem from="1660287798658" duration="4577000" />
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1660288265074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660288265074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +205,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
