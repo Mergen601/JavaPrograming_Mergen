@@ -8,6 +8,8 @@ public class PersonObjects
         Person person2 = new Person("Beyza",'F',18);
         Person person3 = new Person("İhsan",'M',22);
 
+        person1.age = 13;
+
         System.out.println(person1);
 
 
