@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="JAva SDET" />
+    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="JAva SDET">
+      <change afterPath="$PROJECT_DIR$/src/day32_Static/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Static/EmployeeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Static/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Static/MyScrumTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Static/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Static/StudentObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Static/StudentTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Static/TestIphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,16 +70,29 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MyRectangle">
-    <configuration name="MyOffers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Constructors.MyOffers" />
+  <component name="RunManager" selected="Application.TestIphone">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Static.Employee" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31_Constructors.*" />
+          <option name="PATTERN" value="day32_Static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Static.EmployeeObjects" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day32_Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyScrumTeam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Constructors.ScrumTask.MyScrumTeam" />
+    <configuration name="StudentObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Static.StudentObject" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31_Constructors.ScrumTask.*" />
+          <option name="PATTERN" value="day32_Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,25 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Constructors.PersonObjects" />
+    <configuration name="TestIphone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Static.TestIphone" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31_Constructors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PizzaOrdering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Constructors.PizzaOrdering" />
-      <module name="JavaPrograming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day31_Constructors.*" />
+          <option name="PATTERN" value="day32_Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestIphone" />
+        <item itemvalue="Application.EmployeeObjects" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.StudentObject" />
         <item itemvalue="Application.MyRectangle" />
-        <item itemvalue="Application.MyScrumTeam" />
-        <item itemvalue="Application.PizzaOrdering" />
-        <item itemvalue="Application.PersonObjects" />
-        <item itemvalue="Application.MyOffers" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +190,7 @@
       <workItem from="1660122217476" duration="6288000" />
       <workItem from="1660243972704" duration="312000" />
       <workItem from="1660287798658" duration="12412000" />
+      <workItem from="1660393659363" duration="5080000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -234,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660317620222</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="JAva SDET">
+      <created>1660393671203</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660393671203</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,11 +307,6 @@
           <url>file://$PROJECT_DIR$/src/day25_MethodOverloading/AddELementsToArray.java</url>
           <line>51</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day31_Constructors/RectAngle.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/day31_Constructors/RectAngle.java</url>
