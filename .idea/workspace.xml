@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="JAva SDET">
-      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/RectAngle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/ScrumTask/MyRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="JAva SDET" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +176,7 @@
       <workItem from="1660040204122" duration="11489000" />
       <workItem from="1660122217476" duration="6288000" />
       <workItem from="1660243972704" duration="312000" />
-      <workItem from="1660287798658" duration="12117000" />
+      <workItem from="1660287798658" duration="12412000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -231,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660316846636</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="JAva SDET">
+      <created>1660317620222</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660317620222</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +286,16 @@
           <url>file://$PROJECT_DIR$/src/day25_MethodOverloading/AddELementsToArray.java</url>
           <line>51</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day31_Constructors/RectAngle.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day31_Constructors/RectAngle.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
