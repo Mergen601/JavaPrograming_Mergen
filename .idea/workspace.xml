@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="JAva SDET">
-      <change afterPath="$PROJECT_DIR$/src/day32_Static/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Static/EmployeeObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Static/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Static/MyScrumTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Static/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Static/StudentObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Static/StudentTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Static/TestIphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_GarbageCollection_AccessModifiers/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_GarbageCollection_AccessModifiers/Constructor_vs_StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_GarbageCollection_AccessModifiers/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_GarbageCollection_AccessModifiers/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_Arrays/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day20_Arrays/MinMax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +70,13 @@
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestIphone">
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Static.Employee" />
+  <component name="RunManager" selected="Application.Constructor_vs_StaticBlock">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_GarbageCollection_AccessModifiers.Circle" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32_Static.*" />
+          <option name="PATTERN" value="day34_GarbageCollection_AccessModifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Static.EmployeeObjects" />
+    <configuration name="Constructor_vs_StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_GarbageCollection_AccessModifiers.Constructor_vs_StaticBlock" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32_Static.*" />
+          <option name="PATTERN" value="day34_GarbageCollection_AccessModifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31_Constructors.ScrumTask.MyRectangle" />
+    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_GarbageCollection_AccessModifiers.StaticBlock" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31_Constructors.ScrumTask.*" />
+          <option name="PATTERN" value="day34_GarbageCollection_AccessModifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Static.StudentObject" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_GarbageCollection_AccessModifiers.Test" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32_Static.*" />
+          <option name="PATTERN" value="day34_GarbageCollection_AccessModifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Constructor_vs_StaticBlock" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.StaticBlock" />
         <item itemvalue="Application.TestIphone" />
-        <item itemvalue="Application.EmployeeObjects" />
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.StudentObject" />
-        <item itemvalue="Application.MyRectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +187,7 @@
       <workItem from="1660122217476" duration="6288000" />
       <workItem from="1660243972704" duration="312000" />
       <workItem from="1660287798658" duration="12412000" />
-      <workItem from="1660393659363" duration="5080000" />
+      <workItem from="1660393659363" duration="8687000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -255,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660393671203</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="JAva SDET">
+      <created>1660399004126</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660399004126</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

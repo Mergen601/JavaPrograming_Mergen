@@ -10,6 +10,7 @@ public class MinMax
         Scanner scan = new Scanner(System.in);
         int number [] = new int[10];
 
+
         for (int i = 0; i < number.length; i++)
 
          {
