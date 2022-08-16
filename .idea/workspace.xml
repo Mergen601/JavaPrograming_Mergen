@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="JAva SDET">
-      <change afterPath="$PROJECT_DIR$/src/Utilities/AccessModifiersTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_GarbageCollection_AccessModifiers/AccessModifiersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_GarbageCollection_AccessModifiers/AccessesModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/CydeoStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/PersonObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AccessModifiersTest2">
+  <component name="RunManager" selected="Application.PersonObject">
     <configuration name="AccessModifiersTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day34_GarbageCollection_AccessModifiers.AccessModifiersTest" />
       <module name="JavaPrograming" />
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CydeostudentObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_GarbageCollection_AccessModifiers.CydeostudentObject" />
+    <configuration name="DogObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_CustomClass.DogObject" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_GarbageCollection_AccessModifiers.*" />
+          <option name="PATTERN" value="day30_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticImport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_GarbageCollection_AccessModifiers.StaticImport" />
+    <configuration name="PersonObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Encapsulation.PersonObject" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_GarbageCollection_AccessModifiers.*" />
+          <option name="PATTERN" value="day35_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonObject" />
+        <item itemvalue="Application.DogObject" />
         <item itemvalue="Application.AccessModifiersTest2" />
         <item itemvalue="Application.AccessModifiersTest" />
         <item itemvalue="Application.GarbageCollection" />
-        <item itemvalue="Application.StaticImport" />
-        <item itemvalue="Application.CydeostudentObject" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +187,9 @@
       <workItem from="1660287798658" duration="12412000" />
       <workItem from="1660393659363" duration="8687000" />
       <workItem from="1660474309521" duration="5761000" />
-      <workItem from="1660641920489" duration="4120000" />
+      <workItem from="1660641920489" duration="4134000" />
+      <workItem from="1660667782369" duration="2000" />
+      <workItem from="1660680465552" duration="2398000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -280,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660644770238</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="JAva SDET">
+      <created>1660646150425</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1660646150425</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
