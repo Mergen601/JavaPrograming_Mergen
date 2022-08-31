@@ -2,6 +2,7 @@ package day29_ArrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 
 public class ArrayListPractice
 {
@@ -13,9 +14,12 @@ public class ArrayListPractice
 
         String countryNames [] = {"NetherLand","United States","Turkey","Korea","Japan","Ukraine"};
 
-        ArrayList<String> countries = new ArrayList<>(Arrays.asList(countryNames));
+        ArrayList<String>  countries = new ArrayList<>(Arrays.asList(countryNames));
+
         countries.removeIf(p -> p.length()>=10);
         System.out.println(countries);
+
+
 
         countryNames = countries.toArray(new String[0]);
         System.out.println(Arrays.toString(countryNames));

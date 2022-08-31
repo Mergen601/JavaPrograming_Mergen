@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="JAva SDET">
-      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/TestEncapsulation.java" afterDir="false" />
+    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="dasda">
+      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/EmployeeObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/PersonObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Inheritance/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Inheritance/encapsulation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Inheritance/encapsulation/StudentObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_ArrayList/ArrayListPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_ArrayList/ArrayListPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_Encapsulation/githubProject.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +74,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestEncapsulation">
-    <configuration name="AccessModifiersTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_GarbageCollection_AccessModifiers.AccessModifiersTest" />
+  <component name="RunManager" selected="Application.StudentObject">
+    <configuration name="CollectionUtilities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_ArrayList.CollectionUtilities" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_GarbageCollection_AccessModifiers.*" />
+          <option name="PATTERN" value="day29_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccessModifiersTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Utilities.AccessModifiersTest2" />
+    <configuration name="EmployeeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Encapsulation.encapsulation.EmployeeObject" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Utilities.*" />
+          <option name="PATTERN" value="day35_Encapsulation.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,25 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_CustomClass.DogObject" />
+    <configuration name="StudentObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_Inheritance.encapsulation.StudentObject" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day30_CustomClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_Encapsulation.PersonObject" />
-      <module name="JavaPrograming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day35_Encapsulation.*" />
+          <option name="PATTERN" value="day36_Inheritance.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day35_Encapsulation.encapsulation.PersonObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Encapsulation.encapsulation.PersonObject" />
+      <module name="JavaPrograming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day35_Encapsulation.encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentObject" />
+        <item itemvalue="Application.EmployeeObject" />
+        <item itemvalue="Application.day35_Encapsulation.encapsulation.PersonObject" />
+        <item itemvalue="Application.CollectionUtilities" />
         <item itemvalue="Application.TestEncapsulation" />
-        <item itemvalue="Application.PersonObject" />
-        <item itemvalue="Application.DogObject" />
-        <item itemvalue="Application.AccessModifiersTest2" />
-        <item itemvalue="Application.AccessModifiersTest" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +196,11 @@
       <workItem from="1660641920489" duration="4134000" />
       <workItem from="1660667782369" duration="2000" />
       <workItem from="1660680465552" duration="2398000" />
-      <workItem from="1660726116165" duration="976000" />
+      <workItem from="1660726116165" duration="4153000" />
+      <workItem from="1661639129671" duration="3190000" />
+      <workItem from="1661674737263" duration="896000" />
+      <workItem from="1661718173162" duration="19000" />
+      <workItem from="1661953485133" duration="4336000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -289,7 +300,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660646150425</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="JAva SDET">
+      <created>1660727119803</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660727119803</updated>
+    </task>
+    <task id="LOCAL-00016" summary="dasda">
+      <created>1660727284601</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660727284601</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +335,8 @@
     <MESSAGE value="new" />
     <MESSAGE value="NEW" />
     <MESSAGE value="JAva SDET" />
-    <option name="LAST_COMMIT_MESSAGE" value="JAva SDET" />
+    <MESSAGE value="dasda" />
+    <option name="LAST_COMMIT_MESSAGE" value="dasda" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
