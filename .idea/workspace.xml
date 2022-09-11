@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="dasda">
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/AmazonInc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/BussinessAnalyİst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/ProductOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/ScrumMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/ScrumTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="ScrumTeam">
+      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/BussinessAnaliyst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/AmazonInc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/AmazonInc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +198,7 @@
       <workItem from="1662196125677" duration="31000" />
       <workItem from="1662810650288" duration="2048000" />
       <workItem from="1662893176349" duration="4494000" />
-      <workItem from="1662897815316" duration="3685000" />
+      <workItem from="1662897815316" duration="4022000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -360,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662899720819</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ScrumTeam">
+      <created>1662901823218</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1662901823218</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +383,8 @@
     <MESSAGE value="NEW" />
     <MESSAGE value="JAva SDET" />
     <MESSAGE value="dasda" />
-    <option name="LAST_COMMIT_MESSAGE" value="dasda" />
+    <MESSAGE value="ScrumTeam" />
+    <option name="LAST_COMMIT_MESSAGE" value="ScrumTeam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
