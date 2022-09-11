@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="dasda">
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/phoneTask/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/phoneTask/Nokia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/phoneTask/PhoneShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/phoneTask/Samsung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_CustomClass/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_CustomClass/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Inheritance/employeeTask/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Inheritance/phoneTask/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Inheritance/phoneTask/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Inheritance/phoneTask/Iphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Inheritance/phoneTask/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Inheritance/phoneTask/Phone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +72,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AnimalObject">
+  <component name="RunManager" selected="Application.PhoneShop">
     <configuration name="AnimalObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day37_Inheritance.animalTask.AnimalObject" />
       <module name="JavaPrograming" />
@@ -96,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_Encapsulation.encapsulation.EmployeeObject" />
+    <configuration name="PhoneShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_Inheritance.phoneTask.PhoneShop" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_Encapsulation.encapsulation.*" />
+          <option name="PATTERN" value="day37_Inheritance.phoneTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneShop" />
         <item itemvalue="Application.AnimalObject" />
         <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.StudentObject" />
-        <item itemvalue="Application.EmployeeObject" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +203,8 @@
       <workItem from="1662028147750" duration="4978000" />
       <workItem from="1662196125677" duration="31000" />
       <workItem from="1662810650288" duration="2048000" />
-      <workItem from="1662893176349" duration="3922000" />
+      <workItem from="1662893176349" duration="4494000" />
+      <workItem from="1662897815316" duration="1801000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -342,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662896292966</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="dasda">
+      <created>1662897296267</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1662897296267</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -22,12 +22,12 @@ public class Phone {
     }
 
     public void text(long phoneNumber){
-        System.out.println(brand+" "+model+ "is texting "+phoneNumber);
+        System.out.println(brand+" "+model+ " is texting "+phoneNumber);
 
     }
 
     public void call(long phoneNumber){
-        System.out.println(brand+ " " +model+ " is calling"+phoneNumber);
+        System.out.println(brand+ " " +model+ " is calling "+phoneNumber);
     }
 
     public String toString() {

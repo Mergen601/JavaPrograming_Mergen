@@ -7,10 +7,10 @@ public class Iphone extends Phone {
     }
 
     public void faceTime(long phoneNumber){
-        System.out.println(brand+" "+model+" is having face time with"+phoneNumber);
+        System.out.println(brand+" "+model+" is having face time with "+phoneNumber);
     }
 
     public void faceTime(String email){
-        System.out.println(brand+" "+model+" is having face time with"+email);
+        System.out.println(brand+" "+model+" is having face time with "+email);
     }
 }
