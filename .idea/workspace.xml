@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="dasda">
-      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/EmployeeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/PersonObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Inheritance/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Inheritance/encapsulation/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_Inheritance/encapsulation/StudentObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Inheritance/animalTask/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Inheritance/animalTask/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Inheritance/animalTask/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36_Inheritance/animalTask/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/animalTask/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/animalTask/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29_ArrayList/ArrayListPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_ArrayList/ArrayListPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day35_Encapsulation/githubProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day36_Inheritance/animalTask/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day36_Inheritance/animalTask/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,27 +59,27 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ihsan/OneDrive/Masaüstü/Cydeo/Java Programing-B25/JavaProjects/JavaPrograming&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ihsan/OneDrive/Masaüstü/Cydeo/Java Programing-B25/JavaProjects/JavaPrograming",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
-  <component name="RunManager" selected="Application.StudentObject">
-    <configuration name="CollectionUtilities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29_ArrayList.CollectionUtilities" />
+}]]></component>
+  <component name="RunManager" selected="Application.Zoo">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_Inheritance.animalTask.Dog" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day29_ArrayList.*" />
+          <option name="PATTERN" value="day36_Inheritance.animalTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestEncapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_Encapsulation.TestEncapsulation" />
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_Inheritance.animalTask.Zoo" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_Encapsulation.*" />
+          <option name="PATTERN" value="day36_Inheritance.animalTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zoo" />
+        <item itemvalue="Application.Dog" />
         <item itemvalue="Application.StudentObject" />
         <item itemvalue="Application.EmployeeObject" />
         <item itemvalue="Application.day35_Encapsulation.encapsulation.PersonObject" />
-        <item itemvalue="Application.CollectionUtilities" />
-        <item itemvalue="Application.TestEncapsulation" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +199,11 @@
       <workItem from="1661639129671" duration="3190000" />
       <workItem from="1661674737263" duration="896000" />
       <workItem from="1661718173162" duration="19000" />
-      <workItem from="1661953485133" duration="4336000" />
+      <workItem from="1661953485133" duration="5047000" />
+      <workItem from="1662015928215" duration="34000" />
+      <workItem from="1662028147750" duration="4978000" />
+      <workItem from="1662196125677" duration="31000" />
+      <workItem from="1662810650288" duration="2048000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -314,7 +317,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660727284601</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="dasda">
+      <created>1661957976460</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661957976460</updated>
+    </task>
+    <task id="LOCAL-00018" summary="dasda">
+      <created>1662015942713</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1662015942713</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

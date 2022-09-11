@@ -1,4 +1,4 @@
-package day36_Inheritance.animalTask;
+package day37_Inheritance.animalTask;
 
 public class Animal {
 
@@ -19,6 +19,15 @@ public class Animal {
 
     }
 
+
+
+
+
+
+
+
+
+
     public void eat()
     {
         System.out.println(name+ " is eating");
@@ -36,6 +45,7 @@ public class Animal {
         System.out.println(name+ " is sleeping");
     }
 
+
     public String toString() {
         return "Animal{" +
                 "name='" + name + '\'' +
@@ -46,22 +56,5 @@ public class Animal {
                 ", color='" + color + '\'' +
                 '}';
     }
-
-    //Animal:
-    //name, breed, gender, size, age, color
-    //setInfo(), eat(), drink(), move(), sleep(), toString()
-    //Dog extends Animal:
-    //bark()
-    //Cat extends Animal:
-    //scratch()
-    //Tiger extends Animal:
-    //roar()
-    //Fish extends Animal:
-    //swim()
-    //...
-    //import vs extends:
-    //import: borrowing
-    //extends: owning
-    //inherit ->pass it through
-    //import -> let using
 }
+
