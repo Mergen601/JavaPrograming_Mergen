@@ -8,7 +8,7 @@ public class Animal {
     public String size;
     public String color;
 
-    public Animal (String name, String breed, int age, char gender, String size, String color) {
+    public void setInfo (String name, String breed, int age, char gender, String size, String color) {
         this.name = name;
         this.breed = breed;
         this.age = age;

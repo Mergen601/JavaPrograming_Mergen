@@ -16,14 +16,7 @@ public class Animal {
         this.size = size;
         this.color = color;
 
-
     }
-
-
-
-
-
-
 
 
 
