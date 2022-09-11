@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="dasda">
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/animalTask/AnimalObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/animalTask/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/animalTask/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/employeeTask/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Inheritance/phoneTask/Iphone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day36_Inheritance/animalTask/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day36_Inheritance/animalTask/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Inheritance/animalTask/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Inheritance/animalTask/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_CustomClass/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_CustomClass/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_Encapsulation/encapsulation/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Inheritance/employeeTask/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Inheritance/phoneTask/Phone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +200,7 @@
       <workItem from="1662028147750" duration="4978000" />
       <workItem from="1662196125677" duration="31000" />
       <workItem from="1662810650288" duration="2048000" />
-      <workItem from="1662893176349" duration="2592000" />
+      <workItem from="1662893176349" duration="3922000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -337,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662893449957</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="dasda">
+      <created>1662896292966</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1662896292966</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

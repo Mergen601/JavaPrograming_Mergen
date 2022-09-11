@@ -20,7 +20,7 @@ public class Employee {
     }
 
     public String toString() {
-        return "Employee{" +
+        return "Phone{" +
                 "name='" + name + '\'' +
                 ", ID=" + ID +
                 ", gender=" + gender +

@@ -58,7 +58,7 @@ public class Employee {
     }
 
     public String toString() {
-        return "Employee{" +
+        return "Phone{" +
                 "name='" + name + '\'' +
                 ", gender=" + gender +
                 ", age=" + age +
