@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="ScrumTeam">
+      <change afterPath="$PROJECT_DIR$/src/day38_Inheritance/CarTask/Bmw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Inheritance/CarTask/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Inheritance/CarTask/CarObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Inheritance/CarTask/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Inheritance/CarTask/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day38_Inheritance/classNote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Recap/MethodOverloading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/AmazonInc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/AmazonInc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/BussinessAnaliyst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Inheritance/ScrumTask/BussinessAnaliyst.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +72,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AmazonInc">
+  <component name="RunManager" selected="Application.CarObject">
     <configuration name="AmazonInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day37_Inheritance.ScrumTask.AmazonInc" />
       <module name="JavaPrograming" />
@@ -94,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_Inheritance.animalTask.Dog" />
+    <configuration name="CarObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Inheritance.CarTask.CarObject" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day36_Inheritance.animalTask.*" />
+          <option name="PATTERN" value="day38_Inheritance.CarTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarObject" />
         <item itemvalue="Application.AmazonInc" />
         <item itemvalue="Application.PhoneShop" />
         <item itemvalue="Application.AnimalObject" />
         <item itemvalue="Application.Zoo" />
-        <item itemvalue="Application.Dog" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +204,10 @@
       <workItem from="1662196125677" duration="31000" />
       <workItem from="1662810650288" duration="2048000" />
       <workItem from="1662893176349" duration="4494000" />
-      <workItem from="1662897815316" duration="6190000" />
+      <workItem from="1662897815316" duration="6205000" />
+      <workItem from="1662922921165" duration="2974000" />
+      <workItem from="1662980405568" duration="2077000" />
+      <workItem from="1663052460833" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -369,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662903164772</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="ScrumTeam">
+      <created>1662906705515</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1662906705515</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
