@@ -20,7 +20,7 @@ public class Square extends Shape{
 
     public Square( double side) {
         super("Square");
-        this.side = side;
+        setSide(side);
     }
 
     @Override

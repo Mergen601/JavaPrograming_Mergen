@@ -1,5 +1,7 @@
 package day39_Recap.shapeTask;
 
+import day37_Inheritance.phoneTask.Phone;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -13,9 +15,21 @@ public class ShapeObject {
 
         ArrayList<Shape> shapes = new ArrayList<>();
         shapes.addAll(Arrays.asList(rectangle,circle));
-        System.out.println(shapes);
-        shapes.removeIf(p ->  p.getName().equals("Circle"));
-        System.out.println(shapes);
+
+
+        Rectangle rectangle1 = new Rectangle(-10,22);
+        System.out.println(rectangle1);
+
+
+
+        Square square = new Square(10);
+        System.out.println(square);
+
+        for(Shape each : shapes)
+        {
+            System.out.println(each.getName() +": "+each.area());
+        }
+
 
 
     }
