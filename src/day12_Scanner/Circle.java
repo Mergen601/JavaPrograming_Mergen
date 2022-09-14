@@ -11,6 +11,8 @@ public class Circle
         System.out.println("Enter the radius of the circle:");
         double r = scan.nextDouble();
 
+
+
         double area = r * r * 3.14;
         double perimeter =  2 * r * 3.14;
 

@@ -21,6 +21,8 @@ public class Shape {
         this.name = name;
     }
 
+
+
     public Shape(String name) {
         setName(name);
     }
@@ -31,5 +33,14 @@ public class Shape {
 
     public double parameters(){
         return 0;
+    }
+
+    @Override
+    public String toString() {
+        return "Shape{" +
+                "name='" + name + '\'' +
+                ", area'"+area()+'\''+
+                ", perimeter'"+parameters()+'\''+
+                '}';
     }
 }
