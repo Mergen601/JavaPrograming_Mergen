@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="java day39 recap">
-      <change afterPath="$PROJECT_DIR$/src/day39_Recap/cydeoTask/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_Recap/cydeoTask/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Recap/cydeoTask/Cydeo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Recap/cydeoTask/Developers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Recap/cydeoTask/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Recap/cydeoTask/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_Recap/cydeoTask/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day39_Recap/shapeTask/ShapeObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_Recap/shapeTask/ShapeObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day39_Recap/shapeTask/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_Recap/shapeTask/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_Recap/cydeoTask/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_Recap/cydeoTask/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_Recap/cydeoTask/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_Recap/cydeoTask/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +72,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ShapeObject">
+  <component name="RunManager" selected="Application.Cydeo">
     <configuration name="AmazonInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day37_Inheritance.ScrumTask.AmazonInc" />
       <module name="JavaPrograming" />
@@ -83,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimalObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Inheritance.animalTask.AnimalObject" />
+    <configuration name="CarObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Inheritance.CarTask.CarObject" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_Inheritance.animalTask.*" />
+          <option name="PATTERN" value="day38_Inheritance.CarTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Inheritance.CarTask.CarObject" />
+    <configuration name="Cydeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_Recap.cydeoTask.Cydeo" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Inheritance.CarTask.*" />
+          <option name="PATTERN" value="day39_Recap.cydeoTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cydeo" />
         <item itemvalue="Application.ShapeObject" />
         <item itemvalue="Application.CarObject" />
         <item itemvalue="Application.AmazonInc" />
         <item itemvalue="Application.PhoneShop" />
-        <item itemvalue="Application.AnimalObject" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +209,7 @@
       <workItem from="1662980405568" duration="2077000" />
       <workItem from="1663052460833" duration="3362000" />
       <workItem from="1663066498572" duration="2252000" />
-      <workItem from="1663148332713" duration="8525000" />
+      <workItem from="1663148332713" duration="13131000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
@@ -404,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663150448494</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="java day39 recap">
+      <created>1663161223580</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1663161223580</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

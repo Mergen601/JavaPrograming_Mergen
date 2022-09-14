@@ -18,6 +18,7 @@ public class Employee extends Person {
     }
 
     public void setEmployeeId(int employeeId) {
+
         this.employeeId = employeeId;
     }
 
@@ -34,8 +35,13 @@ public class Employee extends Person {
     }
 
     public void setSalary(double salary) {
+        if(salary<=0){
+            System.err.println("Invalid salary");
+            System.exit(1);
+        }
         this.salary = salary;
     }
+
 
     public void work(){
         System.out.println(getName()+" is working");
@@ -47,9 +53,12 @@ public class Employee extends Person {
                 "name= "+getName()+
                 ", age= "+getAge()+
                 ", gender ="+getGender()+
-                ", employeeId=" + employeeId +
-                ", jobTitle='" + jobTitle + '\'' +
-                ", salary=" + salary +
+                ", employeeId=" + getEmployeeId() +
+                ", jobTitle='" + getJobTitle() + '\'' +
+                ", salary=" + getSalary() +
                 '}';
     }
+
+
+
 }
