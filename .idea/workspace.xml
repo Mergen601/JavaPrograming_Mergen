@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acfd2682-0c37-4c05-a882-964972bf7467" name="Changes" comment="java day39 recap">
+      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/MyOffers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Constructors/Offer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,15 +59,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ihsan/OneDrive/Masaüstü/Cydeo/Test Automation/TestAutomation",
+    "last_opened_file_path": "C:/Users/ihsan/OneDrive/Masaüstü/Cydeo/Java Programing-B25/JavaProjects/JavaPrograming",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Cydeo">
+  <component name="RunManager" selected="Application.MyOffers">
     <configuration name="AmazonInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day37_Inheritance.ScrumTask.AmazonInc" />
       <module name="JavaPrograming" />
@@ -105,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Inheritance.phoneTask.PhoneShop" />
+    <configuration name="MyOffers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_Constructors.MyOffers" />
       <module name="JavaPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_Inheritance.phoneTask.*" />
+          <option name="PATTERN" value="day31_Constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyOffers" />
         <item itemvalue="Application.Cydeo" />
         <item itemvalue="Application.ShapeObject" />
         <item itemvalue="Application.CarObject" />
         <item itemvalue="Application.AmazonInc" />
-        <item itemvalue="Application.PhoneShop" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +207,7 @@
       <workItem from="1663066498572" duration="2252000" />
       <workItem from="1663148332713" duration="13242000" />
       <workItem from="1663231813951" duration="41000" />
+      <workItem from="1675081809514" duration="1020000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1660288265074</created>
